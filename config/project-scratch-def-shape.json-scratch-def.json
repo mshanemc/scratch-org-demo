@@ -1,0 +1,53 @@
+{
+  "edition": "enterprise",
+  "features": [
+    "chatbot",
+    "cloudtocloud",
+    "developmentwave",
+    "devhubappdevelopment",
+    "einsteinsearchpersonalization",
+    "fsccomprehensive",
+    "lightningdomainspropagated",
+    "orgshape",
+    "pardotgrowth",
+    "salesforcecontentuser",
+    "skypechat"
+  ],
+  "settings": {
+    "chatterSettings": {
+      "enableInviteCsnUsers": true
+    },
+    "communitiesSettings": {
+      "enableGuestRecordReassignOrgPref": true
+    },
+    "devHubSettings": {
+      "enablePackaging2": true,
+      "enableScratchOrgManagementPref": true,
+      "enableShapeExportPref": true
+    },
+    "leadConfigSettings": {
+      "enableOrgWideMergeAndDelete": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "sessionSettings": {
+        "requireHttps": true
+      }
+    },
+    "sharingSettings": {
+      "enableCommunityUserVisibility": true,
+      "enablePortalUserVisibility": true
+    },
+    "siteSettings": {
+      "enableSitesRecordReassignOrgPref": true
+    },
+    "userEngagementSettings": {
+      "enableScheduledSwitcher": true
+    },
+    "userInterfaceSettings": {
+      "enableProfileCustomTabsets": true
+    }
+  }
+}

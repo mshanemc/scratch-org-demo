@@ -1,7 +1,6 @@
 {
   "orgName": "scratch-org-demo",
   "edition": "Developer",
-  "features": ["PlatformCache"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

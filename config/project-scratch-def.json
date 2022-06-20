@@ -1,6 +1,7 @@
 {
   "orgName": "scratch-org-demo",
   "edition": "Developer",
+  "features": ["SecurityEventEnabled"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
